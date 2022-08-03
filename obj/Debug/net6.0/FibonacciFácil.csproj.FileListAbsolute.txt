@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\bin\Debug\net6.0\FibonacciFácil.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\bin\Debug\net6.0\FibonacciFácil.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\bin\Debug\net6.0\FibonacciFácil.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\bin\Debug\net6.0\FibonacciFácil.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\bin\Debug\net6.0\FibonacciFácil.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\refint\FibonacciFácil.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\FibonacciFácil.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FibonacciFácil\obj\Debug\net6.0\ref\FibonacciFácil.dll
